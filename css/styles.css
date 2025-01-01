@@ -45,7 +45,6 @@ body {
 .social-media {
     display: flex;
     gap: 15px;
-    justify-content: center;
     margin-bottom: 20px;
 }
 
